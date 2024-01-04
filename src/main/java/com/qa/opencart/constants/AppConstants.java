@@ -30,6 +30,5 @@ public class AppConstants {
 	public static final String REGISTER_DATA_SHEET_NAME = "register";
 	public static final String PRODUCT_DATA_SHEET_NAME = "product";
 
-	public static final String Dummy = "product";
 
 }
